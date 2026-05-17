@@ -27,3 +27,6 @@ Reference `.env.example` in the directory root. For standard docker-compose func
 - Bcrypt (10 rounds) hashes passwords before db insertion.
 - Login route is guarded by a 5 req/min rate limiter to thwart brute force.
 - Refresh rotation ensures access token brevity (15 minutes).
+
+
+just wanna check how rebase works
